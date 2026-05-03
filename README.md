@@ -1,6 +1,6 @@
 # Backend and mobile development
 
-Practical work in backend development, mobile applications, API integrations and automation.
+Mobile & backend developer focused on API integrations, SQL, automation and Telegram Web Apps.
 
 ## Main areas
 
