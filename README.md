@@ -20,4 +20,4 @@ Public overview:
 - Telegram Web App and website for a flower shop
 - Telegram bots and automation tools
 
-Pinned repository: `portfolio-projects`
+See pinned repository: [`portfolio-projects`](https://github.com/wk4mkqh6w8-prog/portfolio-projects)
